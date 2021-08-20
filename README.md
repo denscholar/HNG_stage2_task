@@ -1,16 +1,5 @@
 # hng_stage_two
 
-A new Flutter project.
+This is a simple Flutter app that collects user input and displays the input on the screen. No third party was used. See image below:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![task](https://user-images.githubusercontent.com/48631109/130298770-34582116-f6e7-4883-a3dc-bd9fc5900e57.PNG)
